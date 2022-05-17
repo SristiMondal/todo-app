@@ -36,7 +36,7 @@ const Todo = () => {
     <div className="Main_div">
       <div className="Center_div">
         <br />
-        <h1>To Do List</h1>
+        <h1>To-Dos List</h1>
         <br />
         <div className="unwanted">
           <input
